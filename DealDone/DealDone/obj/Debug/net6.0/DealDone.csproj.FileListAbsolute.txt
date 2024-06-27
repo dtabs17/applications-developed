@@ -1,0 +1,44 @@
+C:\Users\david\OneDrive\Desktop\DealDone\DealDone\obj\Debug\net6.0\DealDone.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Desktop\DealDone\DealDone\obj\Debug\net6.0\DealDone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Desktop\DealDone\DealDone\obj\Debug\net6.0\DealDone.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Desktop\DealDone\DealDone\obj\Debug\net6.0\DealDone.AssemblyInfo.cs
+C:\Users\david\OneDrive\Desktop\DealDone\DealDone\obj\Debug\net6.0\DealDone.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\DealDone\DealDone\bin\Debug\net6.0\DealDone.exe
+C:\Users\david\OneDrive\Desktop\DealDone\DealDone\bin\Debug\net6.0\DealDone.deps.json
+C:\Users\david\OneDrive\Desktop\DealDone\DealDone\bin\Debug\net6.0\DealDone.runtimeconfig.json
+C:\Users\david\OneDrive\Desktop\DealDone\DealDone\bin\Debug\net6.0\DealDone.dll
+C:\Users\david\OneDrive\Desktop\DealDone\DealDone\bin\Debug\net6.0\DealDone.pdb
+C:\Users\david\OneDrive\Desktop\DealDone\DealDone\obj\Debug\net6.0\DealDone.dll
+C:\Users\david\OneDrive\Desktop\DealDone\DealDone\obj\Debug\net6.0\refint\DealDone.dll
+C:\Users\david\OneDrive\Desktop\DealDone\DealDone\obj\Debug\net6.0\DealDone.pdb
+C:\Users\david\OneDrive\Desktop\DealDone\DealDone\obj\Debug\net6.0\DealDone.genruntimeconfig.cache
+C:\Users\david\OneDrive\Desktop\DealDone\DealDone\obj\Debug\net6.0\ref\DealDone.dll
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\bin\Debug\net6.0\DealDone.exe
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\bin\Debug\net6.0\DealDone.deps.json
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\bin\Debug\net6.0\DealDone.runtimeconfig.json
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\bin\Debug\net6.0\DealDone.dll
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\bin\Debug\net6.0\DealDone.pdb
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\obj\Debug\net6.0\DealDone.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\obj\Debug\net6.0\DealDone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\obj\Debug\net6.0\DealDone.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\obj\Debug\net6.0\DealDone.AssemblyInfo.cs
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\obj\Debug\net6.0\DealDone.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\obj\Debug\net6.0\DealDone.dll
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\obj\Debug\net6.0\refint\DealDone.dll
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\obj\Debug\net6.0\DealDone.pdb
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\obj\Debug\net6.0\DealDone.genruntimeconfig.cache
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\obj\Debug\net6.0\ref\DealDone.dll
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\bin\Debug\net6.0\DealDone.exe
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\bin\Debug\net6.0\DealDone.deps.json
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\bin\Debug\net6.0\DealDone.runtimeconfig.json
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\bin\Debug\net6.0\DealDone.dll
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\bin\Debug\net6.0\DealDone.pdb
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\obj\Debug\net6.0\DealDone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\obj\Debug\net6.0\DealDone.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\obj\Debug\net6.0\DealDone.AssemblyInfo.cs
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\obj\Debug\net6.0\DealDone.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\obj\Debug\net6.0\DealDone.dll
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\obj\Debug\net6.0\refint\DealDone.dll
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\obj\Debug\net6.0\DealDone.pdb
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\obj\Debug\net6.0\DealDone.genruntimeconfig.cache
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\Lab 2\DealDone\DealDone\obj\Debug\net6.0\ref\DealDone.dll
